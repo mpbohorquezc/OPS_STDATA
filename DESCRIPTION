@@ -1,0 +1,14 @@
+Package: Rpackage
+Type: Package
+Title: Functional Kriging, Functional Cokriging and Optimal Spatial Sampling of Functional Data
+Version: 0.1.0
+Authors@R: c(person("Angie", "Villamil", role = c("aut", "cre"),email = "acvillamils@unal.edu.co"),
+            person("Martha", "Bohorquez", role = "aut", email = "mpbohorquezc@unal.edu.co"))
+Author: Angie Villamil and Martha Bohorquez
+Maintainer: Angie Villamil <acvillamils@unal.edu.co>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+Depends:  R (>= 3.3),fda,gstat,sp,gridExtra
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
