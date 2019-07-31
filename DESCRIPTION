@@ -6,8 +6,11 @@ Authors@R: c(person("Angie", "Villamil", role = c("aut", "cre"),email = "acvilla
             person("Martha", "Bohorquez", role = "aut", email = "mpbohorquezc@unal.edu.co"))
 Author: Angie Villamil and Martha Bohorquez
 Maintainer: Angie Villamil <acvillamils@unal.edu.co>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Spatial functional data analysis is an alternative approach to spatio-temporal modeling when the curves are time series 
+varying spatially. Specifically, functional geostatistics allows to carry out optimal spatial prediction of the whole curve at unsampled
+sites. Along with the developments in functional geostatistics, the framework of the optimal spatial sampling designs has been extended. 
+This package is concerned with functional kriging, functional cokriging and optimal sampling designs for spatial prediction of functional
+data.
 Depends:  R (>= 3.3),fda,gstat,sp,gridExtra
 License: GPL-2
 Encoding: UTF-8
